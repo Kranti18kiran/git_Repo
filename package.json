@@ -1,0 +1,21 @@
+{
+  "name": "git_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kranti18kiran/git_Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kranti18kiran/git_Repo/issues"
+  },
+  "homepage": "https://github.com/Kranti18kiran/git_Repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
